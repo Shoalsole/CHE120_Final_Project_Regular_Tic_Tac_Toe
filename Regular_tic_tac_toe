@@ -1,5 +1,4 @@
-# Tic-Tac-Toe
-
+ # Tic-Tac-Toe
 import random  #random is a package, the random value package - for random numbers, we have decleare this if we want to import the random package (RW) 
 
 def drawBoard(board):
